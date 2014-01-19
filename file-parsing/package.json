@@ -1,0 +1,18 @@
+{
+  "name": "file-parsing-example",
+  "private": "true",
+  "private-reason": "don't accidentially publish -- these are just sample projects",
+  "version": "0.1.0",
+  "description": "Example of extracting product data from a PDF invoice",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "git@github.com:markitx/sample-projects.git",
+  "author": "Ben Blair",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~1.17.0"
+  }
+}
