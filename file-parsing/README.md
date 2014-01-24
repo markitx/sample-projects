@@ -24,7 +24,7 @@ Simply run [Mocha](http://visionmedia.github.io/mocha/). The easiest way to do t
 #### Getting Started
 
 After running the tests to see what's failing, look at parseText function in index.js. Try to take the text 
-that you're given and identify invoive line items, then add those items to the results.items array. To try
+that you're given and identify invoice line items, then add those items to the results.items array. To try
 things out more interactively, open a node REPL, read the sample text file in (via 
 [fs.readFileSync](http://nodejs.org/api/fs.html#fs_fs_readfilesync_filename_options)) then try various 
 [regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions).
